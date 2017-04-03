@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Equipo</title>
+	 <link rel="stylesheet" type="text/css" href="css/estilos.css">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	</head>
+	  <body bgcolor="blue">
+    		<header>
+		<div class="logo col-md-4">
+			<img class="img-responsive"  src="img/banner.jpg">
+		</div>
+		<div class="con menu cl-md-8">
+			<ul class="menu nav navbar-nav">
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="Publicaciones.html">Publicaciones</a></li>
+				<li><a href="Equipo.html">Contacto</a></li>
+			</ul>
+		</div>
+	</header>
+<h3><p>Al pasar un invierno 
+Atípicamente caliente se cree que por las altas temperaturas de la superficie marina del golfo de México se podrán crear tormentas eléctricas que afectaran a millones de personas en el sur y centro de Estados unidos durante esta primavera.
+</p>
+<p>Se cree que por primera vez en la historia, la temperatura media de la superficie del mar en el Golfo, nunca cayó por debajo de 73° Fahrenheit durante el invierno.
+</p>
+<p>Por lo cual en las ciudades de Galveston y Houston en texas experimentaron durante el invierno bastante días con temperaturas hasta 10° más calientes que lo que se registro en años anteriores,
+Históricamente los récords continúan mostrando esas tendencia de temperatura al estar a 80°  cuando lo tradicional para esas fechas son de 60°,
+Estas condiciones también se han registrado en el sur de Florida Miami y fort lauderdale que experimentaron sus inviernos más cálidos,
+Por ejemplo de los 90 días de este invierno, Miami vio un récord de 69° de eso aumento asta llegar a 80° o más.
+</p>
+<p>Además, también en el sur, Baton Rouge y Nueva Orleans acaban de experimentar sus meses de febrero más calientes de la historia conocida,
+Si bien la correlación no es absoluta en un estudio realizado ya  se había advertido de la importancia del Golfo de México como factor climático para la intensa actividad de tormentas de los Estados Unidos e América
+</p>
+<p>El reporte sugiere que “entre más alta sea la temperatura de la superficie del mar del Golfo de México, hay más posibilidades de granizo, tornados y tormentas intensas durante marzo -mayo en el sur de los Estados Unidos y norte de México
+</p>
+<p>Según esta investigación, es verdad que un Golfo de México cálido podría intensificar las tormentas durante la primavera, como también se cree que el agua es solo una de las variables que afectan el clima
+</p>
+<p>Pero para que esta temporada ocurra, debe participar también un fenómeno conocido como la capa mixta elevada, una zona de aire caliente y seco a grandes altitudes que se desarrolla sobre la meseta de Mexico.</p></h3>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<a href="Publicaciones.html">Regresar</a>
+<h2><a href="Noticia 2 Fisica (PACO).html"><---Tema anterior</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </h2><h2>no hay temas mas recientes</h2>
+_____________________________________________________________________________________________________________________________________________________________________
+<font color="gray">°1</font><!--aqui va alguna definicion que no se entienda-->
+<br>
+<br>
+Anónimo. (2017). Aumento de temperatura en el golfo de mexici. 2017, de 30/03/2017 Sitio web: <a href="http://movil.ecoticias.com/eco-america/134172/Se-esperan-intensas-tormentas-en-el-sur-del-pais-por-inusual-temperatura-del-agua-en-el-Golfo-de-Mexico">http://movil.ecoticias.com/eco-america/134172/Se-esperan-intensas-tormentas-en-el-sur-del-pais-por-inusual-temperatura-del-agua-en-el-Golfo-de-Mexico</a>
+
+<br>
+<br>
+<br>
+<font color="gray"><h5>
+Victor Leonardo Reyes Arelllano
+</h5></font>
+   </aside>
+	<footer><p>Disnosaurio INC &copy Todos los derechos reservados</p></footer>
+</body>
+</html>

@@ -1,0 +1,51 @@
+.logo img 
+{
+	width: 60%;
+	height: auto;
+	position: relative;
+	margin: 0 auto;
+}
+.menu li 
+{
+	padding: 20px 10px;
+	float: left;
+}
+header
+{
+	width: 100%;
+	height: 90px;
+	border-bottom: solid 2px #ccc;
+	background: #efefef;
+
+}
+.jumbotron
+{
+	background: url(../img/fondo.jpg);
+}
+.jumbotron h1, .jumbotron p
+{
+	color: #ffffff !important;
+	text-shadow:#000 5px 3px 5px;
+	text-align: center;
+}
+footer
+{
+	width: 100%;
+	height: 60px;
+	background: #272727;
+	position: relative;
+	bottom: 0;
+}
+footer p
+{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 20px;
+
+}
+.ecologia img
+{
+	width: 60%;
+	height:auto;
+	position: left;
+}

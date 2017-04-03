@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Equipo</title>
+	 <link rel="stylesheet" type="text/css" href="css/estilos.css">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	</head>
+	  <body bgcolor="blue">
+    		<header>
+		<div class="logo col-md-4">
+			<img class="img-responsive"  src="img/banner.jpg">
+		</div>
+		<div class="con menu cl-md-8">
+			<ul class="menu nav navbar-nav">
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="Publicaciones.html">Publicaciones</a></li>
+				<li><a href="Equipo.html">Contacto</a></li>
+			</ul>
+		</div>
+	</header>
+	<h1>Alarmante  desaparición de la naturaleza virgen de nuestro planeta.</h1>
+    <font face="arial" size="8" color="#424242"><h2><p><i>Se llevo a cabo un estudio en Australia en el cual nos deja ver que  un diez por ciento de la superficie de la naturaleza virgen de nuestro planeta, se calculan alrededor de unos 3.3 millones de kilómetros cuadrados, han   desaparecido en los últimos 20 años, especialmente en la Amazonía y África Central.
+En un comunicado, William Laurance experto de la universidad de James Cook expreso que  "A pesar de que son los reductos de la biodiversidad en peligro y que contribuyen a regular los climas locales y al mantenimiento de muchas comunidades indígenas, las áreas silvestres están desapareciendo ante nuestros ojos".
+También se comento que estas aéreas estaba limpias del hombre en los años 1990, y que al menos un 30%por ciento de tierras de Sudamérica las  han perdido y por parte de África solo un 14%por ciento.
+Todo esto debería ser alarmante ya que al perderse gran cantidad de tierras, las especies que se encontraban en esas tierras pueden llegar a quedarse sin lugar donde vivir, y como consecuencia tener que adaptarse a otro lugar, pero si no lograra adaptarse podría esa especie llegar a extinguirse y causar un desequilibrio en la cadena alimenticia.
+Para terminar el experto de la universidad australiana expreso que “Una  vez que desaparecen las tierras vírgenes no se vuelven a recuperar, la única opción es proteger proactivamente a la naturaleza que nos queda".
+El informador, 2016. Desaparicion de la naturaleza virgen de nuestro planeta. Consultado en marzo, 2017 en El informador.
+Sitio web: <a href="http://www.informador.com.mx/tecnologia/2016/681168/6/alarmante-desaparicion-de-la-naturaleza-virgen-de-nuestro-planeta.html">http://www.informador.com.mx/tecnologia/2016/681168/6/alarmante-desaparicion-de-la-naturaleza-virgen-de-nuestro-planeta.html</a></i></p></h2></font>
+	</body>
+</html>

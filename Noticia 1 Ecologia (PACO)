@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Equipo</title>
+	 <link rel="stylesheet" type="text/css" href="css/estilos.css">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	</head>
+	  <body bgcolor="blue">
+    		<header>
+		<div class="logo col-md-4">
+			<img class="img-responsive"  src="img/banner.jpg">
+		</div>
+		<div class="con menu cl-md-8">
+			<ul class="menu nav navbar-nav">
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="Publicaciones.html">Publicaciones</a></li>
+				<li><a href="Equipo.html">Contacto</a></li>
+			</ul>
+		</div>
+	</header>
+
+<br> 
+<h1>Accidente de Chernóbil</h1><br> 
+<p>El accidente de Chernóbil marca un punto de inflexión en la historia del desarrollo nuclear. Ha sido el mayor accidente en más de medio siglo de utilización pacífica de la energía nuclear. Ha creado una enorme desconfianza en la opinión pública y ha sido la causa de que muchos países eliminaran de sus planes energéticos<br> 
+la generación nucleoeléctrica</p> 
+<img src="https://www.chernobylwel.com/images/editor/images/safety_and_radiation_in_Chernobyl.jpg"><br> 
+<h2>Efectos del accidente de Chernóbil</h2><br> 
+<p> El radioisótopo cesio-137 fue un problema significativo. Su vida media de 30 años significa la mitad<br> 
+Su actividad seguirá estando en el medio ambiente en 2016 y un cuarto en 2046. El cesio es químicamente<br> 
+Al igual que el potasio nutriente, por lo que tiende a ser absorbido fácilmente por las plantas y los animales<br> 
+Y entrar en la cadena alimentaria</p><br> 
+<p>
+ Tiene un periodo de semidesintegración de 30,23 años, y decae emitiendo partículas beta a un isómero nuclear metaestable de Bario-137<br> 
+El Cesio-137 es soluble en agua y sumamente tóxico en cantidades ínfimas. Una vez liberado al medio ambiente, sigue estando presente durante muchos años, dada su vida media. Puede causar cáncer 10, 20 ó 30 años a partir del momento de la ingestión, inhalación o absorción, cuando una suficiente cantidad ingresa al organismo.<br> 
+Tiene un periodo de semidesintegración de 30,23 años, y decae emitiendo partículas beta a un isómero nuclear metaestable de Bario-137<br> 
+
+
+Muchos países de Europa quemaron vegetación contaminada y una prohibición de muchas Mercancías fue colocado a través de Europa Oriental. 
+<br><br> Entre los más afectados se encuentran los renos y las ovejas de Finlandia.<br>
+La venta de leche, carne, muchas frutas y hortalizas fue prohibida en 1986 y 1987 en los mercados
+<br>
+<br>
+</p>
+<h4>El Dr Robert J. habala sobre las mutaciones que tuvo el Bario-137 sobre el ecosistema</h4>
+<p>
+Varios Estudios sobre trigo, ratones, aves y seres humanos Han concluido que las tasas de mutación son Elevada y que la aptitud evolutiva de los Organismos.
+</p>
+<h2>Pero que se esta haciendo al respecto?</h2>
+
+<h3>Nuevo sarcófago de Chernóbil</h3>
+<br>
+
+ es una estructura destinada a contener el reactor nuclear en Chernóbil (Ucrania), parte del cual fue destruido por el desastre de la Chernóbil en 1986. El objetivo primario del NSS es impedir la filtración de material radioactivo del reactor al entorno y el objetivo secundario es hacer, en el futuro, una parcial demolición de la estructura vieja.<br><br>
+
+Se trata de una parte del "Plan de Ejecución del Sistema de Protección", fundado por el "Fondo Internacional de Protección de Chernóbil". El NSS está diseñado para contener los restos radioactivos de la unidad 4 de Chernóbil para los próximos 100 años. El objetivo era reemplazar el sarcófago antiguo, precipitadamente construido por los "liquidadores" después del accidente ocurrido el 26 de abril de 1986.
+
+<center>
+	<br>
+	
+<img src = "http://www.ebrd.com/image/1395241273737.jpg">	
+</center>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<a href="Publicaciones.html">Regresar</a>
+<h2><a href="prueba1.html"><---Tema anterior</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="Noticia 2 Ecologia (ADR).html" align="right">Siguiente tema------></a></h2>
+_____________________________________________________________________________________________________________________________________________________________________
+<font color="gray">°1</font>Reducto es una obra, bien permanente bien temporal, destinada a refugio o fortificación para la defensa. Deriva de la palabra latina reductus, que significa «apartado, retirado».
+<br>
+<br>
+El informador, 2016. Desaparicion de la naturaleza virgen de nuestro planeta. Consultado en marzo, 2017 en El informador.
+Sitio web: <a href="http://www.informador.com.mx/tecnologia/2016/681168/6/alarmante-desaparicion-de-la-naturaleza-virgen-de-nuestro-planeta.html" target="_blank">http://www.informador.com.mx/tecnologia/2016/681168/6/alarmante-desaparicion-de-la-naturaleza-virgen-de-nuestro-planeta.html</a>
+</i></p></h2></font>
+<br>
+<br>
+<br>
+   </aside>
+	<footer><p>Disnosaurio INC &copy Todos los derechos reservados</p></footer>
+</body>
+</html>
